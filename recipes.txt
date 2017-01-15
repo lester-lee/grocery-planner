@@ -1,0 +1,8 @@
+tomatoes&eggs:tomato,egg
+spinach:spinach,garlic
+kale:kale,garlic
+eggplant:eggplant,garlic,soy-sauce,ginger
+split-pea-soup:split-peas,bacon,onion,garlic
+celery-stir-fry:celery,onion,garlic,chicken
+broccoli:broccoli
+cucumber:cucumber,garlic,ginger
